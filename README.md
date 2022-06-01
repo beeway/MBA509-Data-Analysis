@@ -5,6 +5,6 @@ This folder contains lecture notes, slides, datasets, and Rcodes.
 Textbook 
 https://gabors-data-analysis.com
 
-Case Studies and Codes 
+Codes 
 https://github.com/gabors-data-analysis
 
